@@ -1,0 +1,11 @@
+get:
+  summary: hello world api
+  responses:
+    default:
+      schema:
+        type: object
+        required:
+          - message
+        properties:
+          message:
+            type: string

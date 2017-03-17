@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ruo": "^1.5.9"
+  }
+}
